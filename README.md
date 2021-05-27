@@ -1,4 +1,4 @@
-# BigBrain 3D ROIs
+# BigBrain Hippocampus Segmentation
 
 ## BigBrain
 
